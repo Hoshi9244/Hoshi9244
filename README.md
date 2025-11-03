@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hey, I'm Hoshi9244
 
 Passionate web developer using **Python**, **JavaScript**, **HTML5**, and **SQL** to turn ideas into real applications.  
