@@ -1,12 +1,12 @@
-# 👋 Hey, I'm Hoshi9244
+## 👋 Hi, I'm Carl Vernières
 
-Passionate web developer using **Python**, **JavaScript**, **HTML5**, and **SQL** to turn ideas into real applications.  
-I love solving challenges, automating tasks, and constantly learning new technologies.  
-Currently leveling up my skills in **Flask**.
+I'm a web developer passionate about building efficient and reliable applications.  
+I work primarily with **Python**, **JavaScript**, **HTML5**, **SQL** and **Flask**.  
+I enjoy solving problems, automating repetitive tasks, and learning new technologies every day.
 
 ---
 
-### 🧰 Favorite Tools  
+### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -15,12 +15,12 @@ Currently leveling up my skills in **Flask**.
 
 ---
 
-### 📈 GitHub Stats  
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hoshi9244&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshi9244&layout=compact&theme=radical)
 
 ---
 
-### ✉️ Contact Me  
-Want to collaborate or just chat about code?  
+### ✉️ Contact
+Open to collaborations, project ideas, or tech discussions.  
 📬 Email: [carlvernierespro@gmail.com]
