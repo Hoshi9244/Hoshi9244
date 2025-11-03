@@ -1,14 +1,14 @@
 ## Hi there 👋
 
+# 👋 Hey, I'm Hoshi9244
 
-# 👋 Salut, je suis Hoshi9244
-
-Développeur web passionné, j’utilise **Python**, **JavaScript**, **HTML5** et **SQL** pour transformer des idées en applications concrètes.  
-J’aime résoudre des défis, automatiser les routines et apprendre de nouvelles technologies. En ce moment, je perfectionne mes compétences en **Flask**.
+Passionate web developer using **Python**, **JavaScript**, **HTML5**, and **SQL** to turn ideas into real applications.  
+I love solving challenges, automating tasks, and constantly learning new technologies.  
+Currently leveling up my skills in **Flask**.
 
 ---
 
-### 🧰 Mes outils favoris  
+### 🧰 Favorite Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
@@ -17,14 +17,12 @@ J’aime résoudre des défis, automatiser les routines et apprendre de nouvelle
 
 ---
 
-### 📈 Statistiques GitHub  
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=Hoshi9244&show_icons=true&theme=radical)  
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshi9244&layout=compact&theme=radical)
+### 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hoshi9244&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoshi9244&layout=compact&theme=radical)
 
 ---
 
-### ✉️ Me contacter  
-Envie d’échanger ? Un projet à proposer ?  
-📬 e-mail : [ton.email@example.com]
-
-
+### ✉️ Contact Me  
+Want to collaborate or just chat about code?  
+📬 Email: [carlvernierespro@gmail.com]
