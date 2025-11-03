@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 # 👋 Salut, je suis Hoshi9244
 
 Développeur web passionné, j’utilise **Python**, **JavaScript**, **HTML5** et **SQL** pour transformer des idées en applications concrètes.  
@@ -27,4 +27,4 @@ J’aime résoudre des défis, automatiser les routines et apprendre de nouvelle
 Envie d’échanger ? Un projet à proposer ?  
 📬 e-mail : [ton.email@example.com]
 
--->
+
