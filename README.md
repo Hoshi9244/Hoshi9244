@@ -1,8 +1,15 @@
 ## 👋 Hi, I'm Carl Vernières
 
-I'm a web developer passionate about building efficient and reliable applications.  
-I work primarily with **Python**, **JavaScript**, **HTML5**, **SQL** and **Flask**.  
-I enjoy solving problems, automating repetitive tasks, and learning new technologies every day.
+I'm a **high school student in France (Terminale Générale)**, passionate about **web development** and **computer science**.  
+I chose **NSI (Computer Science)** and **Mathematics** as my main subjects, and I enjoy building **efficient**, **reliable**, and **well-structured** applications.  
+I'm particularly interested in **databases** and really enjoy working with **SQL** to design, organize, and manage data.
+
+I mainly work with **Python**, **JavaScript**, **HTML5**, **CSS**, **SQL**, **Flask**, and **JSON**.
+
+---
+
+### 💾 Favorite Language
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -10,8 +17,9 @@ I enjoy solving problems, automating repetitive tasks, and learning new technolo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ---
 
@@ -22,5 +30,5 @@ I enjoy solving problems, automating repetitive tasks, and learning new technolo
 ---
 
 ### ✉️ Contact
-Open to collaborations, project ideas, or tech discussions.  
-📬 Email: [carlvernierespro@gmail.com]
+Open to **collaborations**, **project ideas**, or **tech discussions**.  
+📬 Email: [carlvernierespro@gmail.com](mailto:carlvernierespro@gmail.com)
