@@ -1,15 +1,16 @@
 ## 👋 Hi, I'm Carl Vernières
 
-I'm a **high school student in France (Terminale Générale)**, passionate about **web development** and **computer science**.  
-I chose **NSI (Computer Science)** and **Mathematics** as my main subjects, and I enjoy building **efficient**, **reliable**, and **well-structured** applications.  
+I'm a **first-year student in a BUT Informatique** (university technology degree) in France, passionate about **web development** and **computer science**.  
+In high school, I chose **NSI (Computer Science)** and **Mathematics** as my main subjects, and I enjoy building **efficient**, **reliable**, and **well-structured** applications.  
 I'm particularly interested in **databases** and really enjoy working with **SQL** to design, organize, and manage data.
 
-I mainly work with **Python**, **JavaScript**, **HTML5**, **CSS**, **SQL**, **Flask**, and **JSON**.
+I mainly work with **Python**, **JavaScript**, **HTML5**, **CSS**, **SQL**, **Flask**, and **JSON**.  
+I'm currently **learning C** to better understand how computers work at a low level.
 
 ---
 
-### 💾 Favorite Language
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 📚 Currently Learning
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ---
 
@@ -20,6 +21,7 @@ I mainly work with **Python**, **JavaScript**, **HTML5**, **CSS**, **SQL**, **Fl
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
